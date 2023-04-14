@@ -1,2 +1,2 @@
 #!/bin/bash
-/var
+source ./10-back
